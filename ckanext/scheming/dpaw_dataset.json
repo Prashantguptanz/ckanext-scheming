@@ -124,8 +124,9 @@
     },
     {
       "field_name": "spatial",
-      "label": "Spatial Extent",
+      "label": "Spatial extent",
       "form_placeholder": "Paste a valid GeoJSON geometry",
+      "display_snippet": "spatial.html",
       "help_text": "Bounding polygon of dataset extent"
     }
   ],
